@@ -24,9 +24,9 @@ sistema de banco de dados, bem como a frequência esperada de submissão (A para
 M para média e B para baixa.
 Tabela 1: Frequência esperada de consultas por grupo de usuário
 # Consulta Grupo Frequência
-Q001 Listar todas as lojas cadastradas no sistema                 |Gerência  |M
-| ------------------------------------------------------------------------------ |
-Q002 Encontrar a loja com o maior número de vendas                |Geral     |B
+Q001  | Listar todas as lojas cadastradas no sistema |             |Gerência  |M |
+| ----|------------------------------------------------------------------------- |
+Q002  |Encontrar a loja com o maior número de vendas  |            |Geral     |B |
 | ----------------------------------------------------------------|--------------|
 Q003 Listar todos os vendedores cadastrados no sistema            |Gerência  |B
 | ----------------------------------------------------------------|--------------|
